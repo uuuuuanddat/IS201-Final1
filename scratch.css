@@ -1,0 +1,26 @@
+p{
+    font-style: italic;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.emphasizedtext{
+    text-decoration: underline;
+}
+
+.emphasizedtext{
+    color: rgb(110, 110, 3);
+}
+
+body{
+    background-color: rgb(243, 234, 223);
+}
+
+.text{
+    font-size: large;
+}
+div{
+    font-size: large;
+}
